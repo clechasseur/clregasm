@@ -1,0 +1,7 @@
+*.snk
+*.suo
+*.user
+.vs/
+bin/
+obj/
+Installer/Output/
